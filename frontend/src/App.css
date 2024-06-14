@@ -1,0 +1,13 @@
+.plus-icon-custom{
+    font-size: 26px;
+    color: green;
+}
+.minus-icon-custom{
+    font-size: 26px;
+    color: red;
+    position: absolute;
+    right:15px; 
+}
+.error-custom-single{
+    font-size: 12px;
+}
